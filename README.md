@@ -21,7 +21,7 @@ Both server and client languages and frameworks, mixed.
 |---------------------------------------|---------------------|:--------------:|
 | JS (Node/Server)                      | ![85%](/img/85.svg) |      ❤ ❤       |
 | Vue (with and without Nuxt)           | ![85%](/img/85.svg) |     ❤ ❤ ❤      |
-| PHP                                   | ![85%](/img/85.svg) |       ❤        |
+| PHP                                   | ![85%](/img/85.svg) | ❤<br><small>(hate love)</small> |
 | HTML (guess what the "L" stands for)  | ![85%](/img/85.svg) |                |
 | Shell scripts                         | ![65%](/img/65.svg) |                |
 | Bootstrap *                           | ![65%](/img/65.svg) |                |
