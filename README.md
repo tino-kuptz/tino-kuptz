@@ -5,32 +5,34 @@ There probably won't be much interesting to see here, as I only host my local pr
 Anyways - welcome to my profile!<br>Here are some facts about me
 ## Prefered deployment methods
 Common deployment methods I used in the last few years.
-| **Technology**                             | **Experience**      | **Preference** |
-|--------------------------------------------|---------------------|:--------------:|
-| Docker                                     | ![85%](/img/85.svg) |      ❤ ❤       |
-| Serverless (Cloudflare Pages/Workers)      | ![85%](/img/85.svg) |     ❤ ❤ ❤      |
-| Native install                             | ![65%](/img/65.svg) |                |
-| Kubernetes   <img width="999" height="1">  | ![40%](/img/40.svg) |        ❤       |
+| **Technology**                             | **Experience**                                                  | **Preference** |
+|--------------------------------------------|-----------------------------------------------------------------|:--------------:|
+| Docker                                     | ![90%](https://tools.kup.tz/image/progress-bar/generate/90.svg) |      ❤ ❤       |
+| Serverless (Cloudflare Pages/Workers)      | ![85%](https://tools.kup.tz/image/progress-bar/generate/85.svg) |     ❤ ❤ ❤      |
+| Native install                             | ![65%](https://tools.kup.tz/image/progress-bar/generate/65.svg) |                |
+| Kubernetes   <img width="999" height="1">  | ![50%](https://tools.kup.tz/image/progress-bar/generate/50.svg) |        ❤       |
 
 I tend to use Drone CI for building and deploying. 
 
 As that is the only CI/CD software I am using I am not adding a different chart to that.
 ## Prefered languages and frameworks
 Both server and client languages and frameworks, mixed.
-| **Technology**                        | **Experience**      | **Preference** |
-|---------------------------------------|---------------------|:--------------:|
-| JS (Node/Server)                      | ![85%](/img/85.svg) |      ❤ ❤       |
-| Vue (with and without Nuxt)           | ![85%](/img/85.svg) |     ❤ ❤ ❤      |
-| PHP                                   | ![85%](/img/85.svg) | ❤<br><small>(hate love)</small> |
-| HTML (guess what the "L" stands for)  | ![85%](/img/85.svg) |                |
-| Shell scripts                         | ![65%](/img/65.svg) |                |
-| Bootstrap *                           | ![65%](/img/65.svg) |                |
-| Powershell                            | ![60%](/img/60.svg) |                |
-| CSS                                   | ![60%](/img/60.svg) |                |
-| Markdown                              | image:(/img/50.svg) |                |
-| C#                                    | ![40%](/img/40.svg) |                |
-| C++    <img width="999" height="1">   | ![20%](/img/20.svg) |                |
+| **Technology**                        | **Experience**                                                  | **Preference** |
+|---------------------------------------|-----------------------------------------------------------------|:--------------:|
+| Vue (with and without Nuxt)           | ![89%](https://tools.kup.tz/image/progress-bar/generate/89.svg) |     ❤ ❤ ❤      |
+| JS (Node/Server)                      | ![85%](https://tools.kup.tz/image/progress-bar/generate/85.svg) |      ❤ ❤       |
+| PHP                                   | ![85%](https://tools.kup.tz/image/progress-bar/generate/85.svg) | ❤<br><small>(hate it)</small> |
+| Bootstrap *                           | ![70%](https://tools.kup.tz/image/progress-bar/generate/70.svg) |                |
+| Shell scripts                         | ![60%](https://tools.kup.tz/image/progress-bar/generate/60.svg) |                |
+| Powershell                            | ![55%](https://tools.kup.tz/image/progress-bar/generate/55.svg) |                |
+| Markdown                              | image:(/img/50.svg)                                             |                |
+| C#                                    | ![40%](https://tools.kup.tz/image/progress-bar/generate/40.svg) |                |
+| C++    <img width="999" height="1">   | ![20%](https://tools.kup.tz/image/progress-bar/generate/20.svg) |                |
 
 <small>* got the core concepts, still have to lookup how to group fields and buttons every time</small>
 
 There are some language I haven't used in a while ("AHK" and "Pawn" to name some), but I won't be able to use them right now.<br>So I am not naming them.
+
+I removed "HTML" and "CSS", as (even those are languages too and I didn't specify "programming" in here) they seem a little bit off.
+
+Btw., badges: [tools.kup.tz](https://tools.kup.tz/image/progress-bar), open source, here [on github](https://github.com/tino-kuptz/tools.kup.tz)
