@@ -5,10 +5,10 @@ Welcome to my profile!<br>Here are some facts about me
 ## Prefered deployment methods
 
 Common deployment methods I used in the last few years.
-| **Technology**<img width="441" height="1"> | **Experience**                                                  | **Preference** |
+| **Technology**                             | **Experience**                                                  | **Preference** |
 |--------------------------------------------|-----------------------------------------------------------------|:--------------:|
 | Docker                                     | ![90%](https://tools.kup.tz/image/progress-bar/generate/90.svg) |      ❤ ❤       |
-| Serverless (Cloudflare Workers)            | ![85%](https://tools.kup.tz/image/progress-bar/generate/85.svg) |     ❤ ❤ ❤      |
+| Serverless - Cloudflare Workers, FaaS      | ![85%](https://tools.kup.tz/image/progress-bar/generate/85.svg) |     ❤ ❤ ❤      |
 | Native install                             | ![65%](https://tools.kup.tz/image/progress-bar/generate/65.svg) |                |
 | Kubernetes                                 | ![50%](https://tools.kup.tz/image/progress-bar/generate/50.svg) |        ❤       |
 
@@ -20,9 +20,9 @@ As that is the only CI/CD software I am using I am not adding a different chart 
 
 Both server and client languages and frameworks, mixed.
 
-| **Technology**<img width="441" height="1"> | **Experience**                                                  | **Preference** |
+| **Technology**                        | **Experience**                                                  | **Preference** |
 |---------------------------------------|-----------------------------------------------------------------|:--------------:|
-| Vue (with and without Nuxt)           | ![89%](https://tools.kup.tz/image/progress-bar/generate/89.svg) |     ❤ ❤ ❤      |
+| Vue 3 - with and without Nuxt         | ![89%](https://tools.kup.tz/image/progress-bar/generate/89.svg) |     ❤ ❤ ❤      |
 | JS (Node/Server)                      | ![85%](https://tools.kup.tz/image/progress-bar/generate/85.svg) |      ❤ ❤       |
 | PHP                                   | ![85%](https://tools.kup.tz/image/progress-bar/generate/85.svg) | ❤<br><small>(hate it)</small> |
 | Bootstrap *                           | ![70%](https://tools.kup.tz/image/progress-bar/generate/70.svg) |                |
