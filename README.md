@@ -1,23 +1,26 @@
 # Welcome to my profile
 
-There probably won't be much interesting to see here, as I only host my local projects here as a mirror of my local git.
+Welcome to my profile!<br>Here are some facts about me
 
-Anyways - welcome to my profile!<br>Here are some facts about me
 ## Prefered deployment methods
+
 Common deployment methods I used in the last few years.
-| **Technology**                             | **Experience**                                                  | **Preference** |
+| **Technology**<img width="441" height="1"> | **Experience**                                                  | **Preference** |
 |--------------------------------------------|-----------------------------------------------------------------|:--------------:|
 | Docker                                     | ![90%](https://tools.kup.tz/image/progress-bar/generate/90.svg) |      ❤ ❤       |
-| Serverless (Cloudflare Pages/Workers)      | ![85%](https://tools.kup.tz/image/progress-bar/generate/85.svg) |     ❤ ❤ ❤      |
+| Serverless (Cloudflare Workers)            | ![85%](https://tools.kup.tz/image/progress-bar/generate/85.svg) |     ❤ ❤ ❤      |
 | Native install                             | ![65%](https://tools.kup.tz/image/progress-bar/generate/65.svg) |                |
-| Kubernetes   <img width="999" height="1">  | ![50%](https://tools.kup.tz/image/progress-bar/generate/50.svg) |        ❤       |
+| Kubernetes                                 | ![50%](https://tools.kup.tz/image/progress-bar/generate/50.svg) |        ❤       |
 
 I tend to use Drone CI for building and deploying. 
 
 As that is the only CI/CD software I am using I am not adding a different chart to that.
+
 ## Prefered languages and frameworks
+
 Both server and client languages and frameworks, mixed.
-| **Technology**                        | **Experience**                                                  | **Preference** |
+
+| **Technology**<img width="441" height="1"> | **Experience**                                                  | **Preference** |
 |---------------------------------------|-----------------------------------------------------------------|:--------------:|
 | Vue (with and without Nuxt)           | ![89%](https://tools.kup.tz/image/progress-bar/generate/89.svg) |     ❤ ❤ ❤      |
 | JS (Node/Server)                      | ![85%](https://tools.kup.tz/image/progress-bar/generate/85.svg) |      ❤ ❤       |
@@ -27,7 +30,7 @@ Both server and client languages and frameworks, mixed.
 | Powershell                            | ![55%](https://tools.kup.tz/image/progress-bar/generate/55.svg) |                |
 | Markdown                              | image:(/img/50.svg)                                             |                |
 | C#                                    | ![40%](https://tools.kup.tz/image/progress-bar/generate/40.svg) |                |
-| C++    <img width="999" height="1">   | ![20%](https://tools.kup.tz/image/progress-bar/generate/20.svg) |                |
+| C++                                   | ![20%](https://tools.kup.tz/image/progress-bar/generate/20.svg) |                |
 
 <small>* got the core concepts, still have to lookup how to group fields and buttons every time</small>
 
