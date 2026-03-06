@@ -12,9 +12,9 @@ Common deployment methods I used in the last few years.
 | Native install                             | ![65%](https://tools.kup.tz/image/progress-bar/generate/65.svg) |                |
 | Kubernetes                                 | ![50%](https://tools.kup.tz/image/progress-bar/generate/50.svg) |        ❤       |
 
-I tend to use Drone CI for building and deploying. 
+I tend to use GitHub Actions (also on Gitea) and Drone CI for building and deploying. 
 
-As that is the only CI/CD software I am using I am not adding a different chart to that.
+As these are the only two CI/CD softwares I am using I am not adding a different chart to that.
 
 ## Prefered languages and frameworks
 
