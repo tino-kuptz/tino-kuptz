@@ -39,3 +39,7 @@ There are some language I haven't used in a while ("AHK" and "Pawn" to name some
 I removed "HTML" and "CSS", as (even those are languages too and I didn't specify "programming" in here) they seem a little bit off.
 
 Btw., badges: [tools.kup.tz](https://tools.kup.tz/image/progress-bar), open source, here [on github](https://github.com/tino-kuptz/tools.kup.tz)
+
+<hr/>
+Note:<br>
+Seems like I already had a github account years ago and made a new one by accident. All commits/pull requests/... by https://github.com/tionsys/ do really belong to me. Repositories have been transfered already to this account.
